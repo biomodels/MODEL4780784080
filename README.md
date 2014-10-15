@@ -1,3 +1,21 @@
+# MODEL4780784080: testid
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL4780784080.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL4780784080.git@20140916`
+
+
+# Model Notes
 This model features the phosphorylation of rat brain neuronal NOS expressed in
 E. coli or Sf9 cells, which leads to a decrease in Vmax of the phosphorylated
 enzyme, with little change of both the Km for L-arginine and Kact for CaM.
@@ -26,4 +44,5 @@ Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
 Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
 and annotated resource for published quantitative kinetic models. BMC Syst
 Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
 
